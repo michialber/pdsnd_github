@@ -4,7 +4,7 @@
 This project was created on 2021-11-14.
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US Bikeshare Data of Washington, Chicago, NYC
 
 ### Description
 This python projects provides an interactive environment where a user chooses the data and filter for a dataset to analyze US bikeshare data. Data of Chicago, New York City and Washington can be taken into consideration.
