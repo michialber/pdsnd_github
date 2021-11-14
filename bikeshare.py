@@ -90,6 +90,9 @@ def show_snapshot(df):
     """
     Shows raw data (each time 5 rows) to the user.
 
+    Args:
+        pandas.DataFrame df - name of the dataset which has to be analyzed
+
     """
     valid_feedback = ['yes','no']
     user_feedback = str(input("Would you like to see some lines of the data set? Please answer. Enter yes or no!\n")).lower()
