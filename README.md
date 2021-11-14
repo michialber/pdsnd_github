@@ -7,10 +7,10 @@ This project was created on 2021-11-14.
 Explore US Bikeshare Data
 
 ### Description
-This python projects provides an interactive environment where a user chooses the data and filter for a dataset to analyze US bikeshare data.
+This python projects provides an interactive environment where a user chooses the data and filter for a dataset to analyze US bikeshare data. Data of Chicago, New York City and Washington can be taken into consideration.
 
 ### Files used
 This project includes one python file named bikeshare.py. This program interacts with .csv files on the local client.
 
 ### Credits
-Thanks to Udacity for providing the repository which could be forked: https://github.com/udacity/pdsnd_github 
+Thanks to Udacity for providing the repository which could be forked: https://github.com/udacity/pdsnd_github
