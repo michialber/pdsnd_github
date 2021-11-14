@@ -108,7 +108,13 @@ def show_snapshot(df):
         y += 5
 
 def time_stats(df,city,month,day):
-    """Displays statistics on the most frequent times of travel."""
+    """Displays statistics on the most frequent times of travel.
+
+       Args:
+           pandas.DataFrame df - name of the dataset which has to be analyzed
+           (str) city - name of the city to analyze
+           (str) month - name of the month to filter by, or "all" to apply no month filter
+           (str) day - name of the day of week to filter by, or "all" to apply no day filter"""
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
